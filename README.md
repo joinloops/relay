@@ -65,9 +65,13 @@ Relay by Loops is under active development.
 
 Federation behaviour, supported activity types, compatibility, and APIs may change while the service matures.
 
-## Loops
+## Communication
 
-Relay by Loops is part of the [Loops ecosystem](https://joinloops.org).
+Before participating, please read our [Code of Conduct](CODE_OF_CONDUCT.md).  
+You can connect with the community here:
+
+- Pixelfed: [@loops@pixelfed.social](https://pixelfed.social/loops)
+- Discord: [Join our community](https://discord.gg/wvud8BgFv8)
 
 ## License
 
